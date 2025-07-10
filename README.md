@@ -65,9 +65,11 @@ pip install -r requirements.txt
 flask run
 
 Бэкенд будет доступен по адресу http://localhost:5000.
+```
+
 
 2. Настройка Frontend
-Generated bash
+```bash
 # Перейдите в папку frontend
 cd frontend
 
@@ -76,3 +78,4 @@ npm install
 
 # Запустите сервер разработки
 npm run dev
+```
